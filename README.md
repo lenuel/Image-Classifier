@@ -2,7 +2,7 @@
 # Supervised Learning
 ## Project: Image Classifier
 
-Implemented an image classifier with PyTorch. Built and trained a deep neural network on the flower data set. Added the posibility to use GPU for newral network training and prediction.  Model was also employed in an application that others can use. The application is a pair of Python scripts that run from the command line. For testing, you should use the checkpoint you saved in the first part.
+Implemented an image classifier with PyTorch. Built and trained a deep neural network on the flower data set. Added the possibility to use GPU for neural network training and prediction.  The application was developped using image classification model. The application is a pair of Python scripts that run from the command line. For testing, you should use the checkpoint you saved in the first part.
 
 ### Install
 
